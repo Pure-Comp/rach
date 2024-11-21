@@ -1,0 +1,151 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "7/6/2011">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_1599.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1599.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1602.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1602.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1641.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1641.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1644.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1644.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1654.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1654.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1661.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1661.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1680.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1680.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1681.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1681.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1702.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1702.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1704.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1704.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1705.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1705.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1707.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1707.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1714.jpg"
+width = "600"
+height = "449"
+thumbpath = "IMG_1714.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

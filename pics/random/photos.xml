@@ -1,0 +1,651 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "7/8/2011">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "2011-02-16_23-04-20_351.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-02-16_23-04-20_351.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-05_12-23-45_732.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-05_12-23-45_732.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-08_13-35-10_326.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-08_13-35-10_326.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-09_12-32-48_721.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-09_12-32-48_721.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-24_21-10-55_855.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-24_21-10-55_855.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-24_21-11-02_695.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-24_21-11-02_695.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-24_21-11-45_862.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-24_21-11-45_862.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-24_21-23-07_148.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-24_21-23-07_148.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-29_19-34-10_945.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-29_19-34-10_945.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-30_01-48-04_962.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-30_01-48-04_962.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-04-30_01-48-13_404.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-04-30_01-48-13_404.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-04_20-40-48_723.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-04_20-40-48_723.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-04_20-41-00_196.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-04_20-41-00_196.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-04_20-41-05_858.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-04_20-41-05_858.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-04_20-41-22_224.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-04_20-41-22_224.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-04_20-43-12_949.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-04_20-43-12_949.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-06_01-59-40_967.jpg"
+width = "485"
+height = "650"
+thumbpath = "2011-05-06_01-59-40_967.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "2011-05-06_04-11-42_739.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-06_04-11-42_739.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "2011-05-11_17-54-56_853.jpg"
+width = "650"
+height = "485"
+thumbpath = "2011-05-11_17-54-56_853.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05518.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05518.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05520.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05520.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05522.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05522.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05523.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05523.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05524.jpg"
+width = "487"
+height = "650"
+thumbpath = "DSC05524.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC05525.jpg"
+width = "487"
+height = "650"
+thumbpath = "DSC05525.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC05542.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05542.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05550.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05550.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05551.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05551.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05558.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05558.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05559.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05559.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05560.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05560.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05618.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05618.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05619.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05619.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSC05626.jpg"
+width = "650"
+height = "487"
+thumbpath = "DSC05626.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_0651.jpg"
+width = "650"
+height = "365"
+thumbpath = "IMG_0651.jpg"
+thumbwidth = "75"
+thumbheight = "42">
+</image>
+
+
+<image
+path = "IMG_1382.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1382.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1398.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1398.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1400.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1400.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1485.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1485.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1504.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1504.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1505.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1505.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1506.jpg"
+width = "487"
+height = "650"
+thumbpath = "IMG_1506.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_1525.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1525.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1526.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1526.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1528.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1528.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1602.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1602.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1605.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1605.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1609.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1609.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1616.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1616.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1680.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1680.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1681.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1681.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1704.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1704.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1705.jpg"
+width = "650"
+height = "487"
+thumbpath = "IMG_1705.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9981.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9981.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9982.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9982.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9983.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9983.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9984.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9984.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9990.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9990.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9993.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9993.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9994.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9994.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9995.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9995.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9996.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9996.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "downsized_DSCN9999.jpg"
+width = "650"
+height = "487"
+thumbpath = "downsized_DSCN9999.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
